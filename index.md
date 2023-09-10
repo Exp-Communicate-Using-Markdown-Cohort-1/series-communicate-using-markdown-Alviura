@@ -1,5 +1,3 @@
-# <h1>[a-zA-Z0-9]
-# `<h1>` Hello there
-## <h2> This is Markdown 101
-## <h3> Markdown is fun
-###### <h6> This is the smallest header
+# This is an `<h1>` header, which is the largest
+## This is an `<h2>` header
+###### This is an `<h6>` header, which is the smallest
